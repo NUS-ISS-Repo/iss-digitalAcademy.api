@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISS.DigitalAcademy.Core", "ISS.DigitalAcademy.Core\ISS.DigitalAcademy.Core.csproj", "{CBB26F97-E747-44A1-B8BD-CBA9049BD763}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISS.DigitalAcademy.Api", "ISS.DigitalAcademy.Api\ISS.DigitalAcademy.Api.csproj", "{84F6054F-0F52-4557-972E-A89E1C34D5D8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISS.DigitalAcademy.Facade", "ISS.DigitalAcademy.Facade\ISS.DigitalAcademy.Facade.csproj", "{4A4E92A0-D059-4AEF-A9BF-1FA868AF060B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{CBB26F97-E747-44A1-B8BD-CBA9049BD763}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBB26F97-E747-44A1-B8BD-CBA9049BD763}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBB26F97-E747-44A1-B8BD-CBA9049BD763}.Release|Any CPU.Build.0 = Release|Any CPU
-		{84F6054F-0F52-4557-972E-A89E1C34D5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{84F6054F-0F52-4557-972E-A89E1C34D5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{84F6054F-0F52-4557-972E-A89E1C34D5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{84F6054F-0F52-4557-972E-A89E1C34D5D8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4A4E92A0-D059-4AEF-A9BF-1FA868AF060B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A4E92A0-D059-4AEF-A9BF-1FA868AF060B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A4E92A0-D059-4AEF-A9BF-1FA868AF060B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A4E92A0-D059-4AEF-A9BF-1FA868AF060B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
